@@ -4,7 +4,7 @@ Os notebooks neste repositório são divididos em três partes principais:
 
 1. **Parte 1: Decomposição de Séries Temporais**
 2. **Parte 2: Estacionaridade**
-3. **Parte 3: Técnicas para Tratar a Estacionaridade**
+3. **Parte 3: Técnicas para Tratar a Não Estacionaridade**
 
 Cada notebook inclui exemplos práticos e código comentado para facilitar a compreensão dos conceitos.
 
