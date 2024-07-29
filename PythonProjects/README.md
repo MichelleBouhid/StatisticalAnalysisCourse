@@ -6,7 +6,7 @@ Este repositório contém projetos desenvolvidos durante o curso de Análise Est
 
 1. [Automatiza Suposições MRL](https://github.com/MichelleBouhid/StatisticalAnalysisCourse/blob/main/PythonProjects/AutomatizaSuposicoesMRL)
 2. [Séries Temporais 1](https://github.com/MichelleBouhid/StatisticalAnalysisCourse/blob/main/PythonProjects/SeriesTemporais1)
-
+3. [Séries Temporais 2](https://github.com/MichelleBouhid/StatisticalAnalysisCourse/blob/main/PythonProjects/SeriesTemporais2)
 ---
 
 ### Automatiza Suposições MRL
